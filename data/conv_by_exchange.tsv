@@ -1,0 +1,521 @@
+exchange_name	campaign_id	viewers	buyers
+ADMETA	178718	47	0
+ADMETA	180636	2	0
+ADMETA	182635	644	0
+ADMETA	182658	20	0
+ADMETA	185147	20	0
+ADMETA	189132	29	0
+ADMETA	189291	277	0
+ADMETA	190007	247	0
+ADMETA	190890	22	1
+ADMETA	190894	17	0
+ADMETA	191197	11	0
+ADMETA	191212	10	0
+ADMETA	191453	8	0
+ADMETA	193505	11	0
+ADMETA	193797	10	0
+ADMETA	193918	44	0
+ADMETA	194409	24	1
+ADMETA	195162	3	0
+ADMETA	195337	13	0
+ADMETA	196537	11	0
+ADMETA	197308	4	0
+AdConductor	178718	23	0
+AdConductor	180636	32	0
+AdConductor	182060	20	0
+AdConductor	182635	802	2
+AdConductor	182658	400	0
+AdConductor	185069	21	0
+AdConductor	185147	1138	1
+AdConductor	189132	319	0
+AdConductor	189291	1270	0
+AdConductor	190007	1141	5
+AdConductor	190890	280	3
+AdConductor	190894	1602	0
+AdConductor	191197	455	0
+AdConductor	191212	638	7
+AdConductor	191453	400	3
+AdConductor	193505	136	0
+AdConductor	193797	1150	11
+AdConductor	193918	3117	20
+AdConductor	194409	1116	71
+AdConductor	195162	243	0
+AdConductor	195337	1692	7
+AdConductor	196537	956	3
+AdConductor	197308	4	0
+AppNexus	178718	2418	3
+AppNexus	180636	687	0
+AppNexus	182060	584	0
+AppNexus	182635	37885	19
+AppNexus	182658	12371	5
+AppNexus	185069	547	0
+AppNexus	185147	12703	19
+AppNexus	187433	65120	437
+AppNexus	187879	31489	95
+AppNexus	187977	29775	63
+AppNexus	189132	21287	115
+AppNexus	189291	40800	25
+AppNexus	190007	41847	110
+AppNexus	190890	16432	357
+AppNexus	190894	12004	0
+AppNexus	191197	10519	2
+AppNexus	191212	17477	111
+AppNexus	191453	16499	73
+AppNexus	191485	9686	3
+AppNexus	193505	5910	11
+AppNexus	193797	23177	113
+AppNexus	193918	41821	289
+AppNexus	194409	38265	2112
+AppNexus	195162	7175	4
+AppNexus	195337	12010	11
+AppNexus	196537	10276	14
+AppNexus	197308	1665	4
+BrightRoll	182249	7802	3
+Casale	178718	1149	2
+Casale	180636	334	0
+Casale	182060	1087	0
+Casale	182635	14485	10
+Casale	182658	11658	13
+Casale	185069	955	0
+Casale	185147	9626	13
+Casale	187433	37211	221
+Casale	187879	17041	46
+Casale	187977	15265	38
+Casale	189132	8604	52
+Casale	189291	91629	46
+Casale	190007	21296	39
+Casale	190890	10248	202
+Casale	190894	15449	0
+Casale	191197	14967	3
+Casale	191212	5186	31
+Casale	191453	6033	24
+Casale	191485	13824	4
+Casale	193505	1340	2
+Casale	193797	5310	31
+Casale	193918	20420	135
+Casale	194409	7325	415
+Casale	195162	724	0
+Casale	195337	5212	10
+Casale	196537	2922	3
+Casale	197308	791	0
+Criteo	178718	347	0
+Criteo	180636	145	0
+Criteo	182060	89	0
+Criteo	182635	2601	2
+Criteo	182658	959	0
+Criteo	185069	91	0
+Criteo	185147	904	0
+Criteo	187433	6744	55
+Criteo	187879	3952	14
+Criteo	187977	2012	4
+Criteo	189132	1259	8
+Criteo	189291	11260	8
+Criteo	190007	3248	8
+Criteo	190890	914	27
+Criteo	190894	3430	0
+Criteo	191197	1481	0
+Criteo	191212	3356	26
+Criteo	191453	14356	81
+Criteo	191485	845	0
+Criteo	193505	146	0
+Criteo	193797	11227	36
+Criteo	193918	2812	31
+Criteo	194409	1559	102
+Criteo	195162	1737	2
+Criteo	195337	1224	2
+Criteo	196537	882	0
+Criteo	197308	27	0
+Geniee	178718	10	0
+Geniee	180636	9	0
+Geniee	182060	12	0
+Geniee	182635	162	0
+Geniee	182658	73	0
+Geniee	185069	13	0
+Geniee	185147	138	1
+Geniee	189132	69	0
+Geniee	189291	974	0
+Geniee	190007	382	0
+Geniee	190890	43	1
+Geniee	190894	284	0
+Geniee	191197	386	0
+Geniee	191212	56	0
+Geniee	191453	34	1
+Geniee	193505	14	0
+Geniee	193797	343	1
+Geniee	193918	248	1
+Geniee	194409	398	13
+Geniee	195162	14	0
+Geniee	195337	46	0
+Geniee	196537	48	0
+Geniee	197308	8	0
+Google AdX	178718	511	2
+Google AdX	180636	236	0
+Google AdX	182060	532	0
+Google AdX	182249	57	0
+Google AdX	182635	10489	8
+Google AdX	182658	5525	3
+Google AdX	185069	467	0
+Google AdX	185147	5475	10
+Google AdX	187433	38271	248
+Google AdX	187879	10420	32
+Google AdX	187977	9199	20
+Google AdX	189132	6540	35
+Google AdX	189291	83758	47
+Google AdX	190007	29593	73
+Google AdX	190890	10383	195
+Google AdX	190894	10101	0
+Google AdX	191197	8933	2
+Google AdX	191212	4651	27
+Google AdX	191453	3226	9
+Google AdX	191485	8804	4
+Google AdX	193505	2310	4
+Google AdX	193918	20367	139
+Google AdX	194409	7098	402
+Google AdX	195162	354	0
+Google AdX	195337	3541	1
+Google AdX	196537	3806	9
+Google AdX	197308	304	1
+Improve Digital	178718	5	0
+Improve Digital	180636	1	0
+Improve Digital	182060	3	0
+Improve Digital	182635	91	0
+Improve Digital	182658	19	0
+Improve Digital	185069	3	0
+Improve Digital	185147	33	0
+Improve Digital	189132	19	0
+Improve Digital	189291	421	0
+Improve Digital	190007	103	0
+Improve Digital	190890	208	6
+Improve Digital	190894	50	0
+Improve Digital	191197	77	0
+Improve Digital	191212	15	0
+Improve Digital	191453	11	0
+Improve Digital	193505	9	0
+Improve Digital	193797	29	0
+Improve Digital	193918	391	1
+Improve Digital	194409	23	1
+Improve Digital	195337	6	0
+Improve Digital	196537	3	0
+Improve Digital	197308	1	0
+Kauli	182635	21	0
+Kauli	182658	18	0
+Kauli	185147	5	0
+Kauli	189132	12	0
+Kauli	189291	12	0
+Kauli	190007	21	0
+Kauli	190890	10	1
+Kauli	190894	24	0
+Kauli	191197	16	0
+Kauli	191212	25	0
+Kauli	191453	18	0
+Kauli	193505	7	0
+Kauli	193797	15	0
+Kauli	193918	28	0
+Kauli	194409	9	1
+Kauli	195162	4	0
+Kauli	195337	4	0
+Kauli	196537	8	0
+LiveIntent Exchange	180636	6	0
+LiveIntent Exchange	182060	88	0
+LiveIntent Exchange	182658	1516	0
+LiveIntent Exchange	185069	68	0
+LiveIntent Exchange	190894	315	0
+LiveIntent Exchange	191197	240	0
+LiveIntent Exchange	191212	201	2
+LiveIntent Exchange	193918	785	8
+LiveIntent Exchange	194409	30	0
+LiveRail	182249	57	0
+MARKETPLACE by ADTECH	178718	214	0
+MARKETPLACE by ADTECH	180636	114	0
+MARKETPLACE by ADTECH	182060	166	0
+MARKETPLACE by ADTECH	182635	19433	12
+MARKETPLACE by ADTECH	182658	6248	5
+MARKETPLACE by ADTECH	185069	150	0
+MARKETPLACE by ADTECH	185147	6893	17
+MARKETPLACE by ADTECH	187433	22482	178
+MARKETPLACE by ADTECH	187879	13690	35
+MARKETPLACE by ADTECH	187977	16299	78
+MARKETPLACE by ADTECH	189132	15750	79
+MARKETPLACE by ADTECH	189291	29274	12
+MARKETPLACE by ADTECH	190007	17986	47
+MARKETPLACE by ADTECH	190890	13042	271
+MARKETPLACE by ADTECH	190894	5156	0
+MARKETPLACE by ADTECH	191197	5477	1
+MARKETPLACE by ADTECH	191212	14184	90
+MARKETPLACE by ADTECH	191453	13083	101
+MARKETPLACE by ADTECH	191485	20781	11
+MARKETPLACE by ADTECH	193505	7185	15
+MARKETPLACE by ADTECH	193797	16145	112
+MARKETPLACE by ADTECH	193918	27920	229
+MARKETPLACE by ADTECH	194409	18929	950
+MARKETPLACE by ADTECH	195162	2910	3
+MARKETPLACE by ADTECH	195337	8246	12
+MARKETPLACE by ADTECH	196537	10553	13
+MARKETPLACE by ADTECH	197308	1824	5
+Microsoft Advertising Exchange	182635	67	0
+Microsoft Advertising Exchange	182658	45	0
+Microsoft Advertising Exchange	185147	47	0
+Microsoft Advertising Exchange	187433	471	3
+Microsoft Advertising Exchange	187879	232	0
+Microsoft Advertising Exchange	187977	180	0
+Microsoft Advertising Exchange	189132	167	0
+Microsoft Advertising Exchange	190890	300	6
+Microsoft Advertising Exchange	190894	66	0
+Microsoft Advertising Exchange	191197	160	0
+Microsoft Advertising Exchange	191212	5	0
+Microsoft Advertising Exchange	191453	9	0
+Microsoft Advertising Exchange	191485	29	0
+Microsoft Advertising Exchange	193505	75	0
+Microsoft Advertising Exchange	193797	185	2
+Microsoft Advertising Exchange	193918	403	2
+Microsoft Advertising Exchange	194409	350	16
+Microsoft Advertising Exchange	195162	37	0
+Microsoft Advertising Exchange	195337	119	0
+Microsoft Advertising Exchange	196537	166	0
+Microsoft Advertising Exchange	197308	82	0
+OpenX	178718	4064	6
+OpenX	180636	2112	0
+OpenX	182060	4013	0
+OpenX	182635	54837	31
+OpenX	182658	13716	4
+OpenX	185069	4385	0
+OpenX	185147	52036	94
+OpenX	187433	159539	1124
+OpenX	187879	75614	200
+OpenX	187977	70104	140
+OpenX	189132	42087	256
+OpenX	189291	198162	124
+OpenX	190007	108203	283
+OpenX	190890	45042	1069
+OpenX	190894	65179	0
+OpenX	191197	64968	8
+OpenX	191212	32882	250
+OpenX	191453	31877	148
+OpenX	191485	31226	16
+OpenX	193505	3604	9
+OpenX	193797	27268	142
+OpenX	193918	99360	715
+OpenX	194409	41334	2318
+OpenX	195162	3984	3
+OpenX	195337	26025	28
+OpenX	196537	14050	23
+OpenX	197308	4258	6
+PubMatic	178718	712	1
+PubMatic	180636	615	0
+PubMatic	182060	584	0
+PubMatic	182635	22202	11
+PubMatic	182658	9344	4
+PubMatic	185069	545	0
+PubMatic	185147	7227	20
+PubMatic	187433	45976	312
+PubMatic	187879	16443	46
+PubMatic	187977	26740	117
+PubMatic	189132	12952	90
+PubMatic	189291	48736	36
+PubMatic	190007	22950	59
+PubMatic	190890	12039	242
+PubMatic	190894	9798	0
+PubMatic	191197	17654	6
+PubMatic	191212	11154	62
+PubMatic	191453	7477	39
+PubMatic	191485	15097	7
+PubMatic	193505	8687	11
+PubMatic	193797	9977	59
+PubMatic	193918	32131	206
+PubMatic	194409	20125	1059
+PubMatic	195162	3032	1
+PubMatic	195337	12998	16
+PubMatic	196537	7382	10
+PubMatic	197308	1198	0
+PulsePoint	178718	5	0
+PulsePoint	180636	2	0
+PulsePoint	182060	1	0
+PulsePoint	182635	2993	1
+PulsePoint	182658	831	0
+PulsePoint	185069	1	0
+PulsePoint	185147	58	0
+PulsePoint	187433	265	1
+PulsePoint	187879	141	0
+PulsePoint	187977	389	0
+PulsePoint	189132	122	1
+PulsePoint	189291	5401	4
+PulsePoint	190007	2513	6
+PulsePoint	190890	619	7
+PulsePoint	190894	794	0
+PulsePoint	191197	241	0
+PulsePoint	191212	196	3
+PulsePoint	191453	4298	20
+PulsePoint	191485	1365	1
+PulsePoint	193505	133	0
+PulsePoint	193797	327	1
+PulsePoint	193918	2839	19
+PulsePoint	194409	5542	339
+PulsePoint	195162	34	0
+PulsePoint	195337	3216	2
+PulsePoint	196537	359	1
+PulsePoint	197308	75	0
+Rubicon Project	178718	880	2
+Rubicon Project	180636	827	0
+Rubicon Project	182060	808	0
+Rubicon Project	182635	18867	11
+Rubicon Project	182658	16391	8
+Rubicon Project	185069	710	0
+Rubicon Project	185147	9256	26
+Rubicon Project	187433	34227	223
+Rubicon Project	187879	21793	69
+Rubicon Project	187977	19696	62
+Rubicon Project	189132	14741	90
+Rubicon Project	189291	79414	47
+Rubicon Project	190007	26644	57
+Rubicon Project	190890	11552	256
+Rubicon Project	190894	14837	0
+Rubicon Project	191197	16586	7
+Rubicon Project	191212	7455	47
+Rubicon Project	191453	7586	39
+Rubicon Project	191485	9745	3
+Rubicon Project	193505	2956	5
+Rubicon Project	193797	14035	81
+Rubicon Project	193918	43316	363
+Rubicon Project	194409	22944	1313
+Rubicon Project	195162	2688	2
+Rubicon Project	195337	17078	15
+Rubicon Project	196537	7173	12
+Rubicon Project	197308	2507	6
+Smart AdServer RTB+	182635	84	0
+Smart AdServer RTB+	182658	48	0
+Smart AdServer RTB+	185147	32	0
+Smart AdServer RTB+	189132	54	1
+Smart AdServer RTB+	189291	12	0
+Smart AdServer RTB+	190007	14	0
+Smart AdServer RTB+	190890	23	1
+Smart AdServer RTB+	190894	14	0
+Smart AdServer RTB+	191197	52	0
+Smart AdServer RTB+	191212	5	0
+Smart AdServer RTB+	191453	2	0
+Smart AdServer RTB+	193505	34	0
+Smart AdServer RTB+	193797	67	0
+Smart AdServer RTB+	193918	114	1
+Smart AdServer RTB+	194409	44	4
+Smart AdServer RTB+	195162	19	0
+Smart AdServer RTB+	195337	24	0
+Smart AdServer RTB+	196537	25	0
+Smart AdServer RTB+	197308	9	0
+Sonobi	178718	1131	3
+Sonobi	180636	736	0
+Sonobi	182060	1012	0
+Sonobi	182635	9658	6
+Sonobi	182658	3826	1
+Sonobi	185069	993	0
+Sonobi	185147	7259	9
+Sonobi	189132	11496	55
+Sonobi	189291	28586	7
+Sonobi	190007	16652	37
+Sonobi	190890	9356	166
+Sonobi	190894	7951	0
+Sonobi	191197	8353	1
+Sonobi	191212	2895	26
+Sonobi	191453	3280	13
+Sonobi	193505	839	1
+Sonobi	193797	11522	69
+Sonobi	193918	34176	253
+Sonobi	194409	18313	1006
+Sonobi	195162	1618	2
+Sonobi	195337	9075	9
+Sonobi	196537	6060	8
+Sonobi	197308	1286	0
+Sovrn	178718	179	0
+Sovrn	180636	290	0
+Sovrn	182060	245	0
+Sovrn	182635	7843	3
+Sovrn	182658	3009	3
+Sovrn	185069	276	0
+Sovrn	185147	4043	6
+Sovrn	189132	6146	23
+Sovrn	189291	16185	13
+Sovrn	190007	8787	19
+Sovrn	190890	3754	63
+Sovrn	190894	8276	0
+Sovrn	191197	6331	1
+Sovrn	191212	5617	29
+Sovrn	191453	2916	11
+Sovrn	193505	1412	7
+Sovrn	193797	5162	28
+Sovrn	193918	11446	65
+Sovrn	194409	7683	370
+Sovrn	195162	975	1
+Sovrn	195337	4099	4
+Sovrn	196537	4028	7
+Sovrn	197308	1057	1
+Specific Media	189132	1	0
+Switch Concepts	178718	87	0
+Switch Concepts	180636	66	0
+Switch Concepts	182060	91	0
+Switch Concepts	182635	6613	2
+Switch Concepts	182658	1313	1
+Switch Concepts	185069	66	0
+Switch Concepts	185147	2587	12
+Switch Concepts	189132	6234	41
+Switch Concepts	189291	11987	8
+Switch Concepts	190007	7701	25
+Switch Concepts	190890	4252	66
+Switch Concepts	190894	4179	0
+Switch Concepts	191197	3486	3
+Switch Concepts	191212	1640	10
+Switch Concepts	191453	1526	8
+Switch Concepts	193505	1837	3
+Switch Concepts	193797	6531	50
+Switch Concepts	193918	15265	117
+Switch Concepts	194409	11020	613
+Switch Concepts	195162	1062	1
+Switch Concepts	195337	7009	5
+Switch Concepts	196537	2961	3
+Switch Concepts	197308	936	2
+Yahoo! and Partner Sites	178718	45	0
+Yahoo! and Partner Sites	180636	16	0
+Yahoo! and Partner Sites	182060	20	0
+Yahoo! and Partner Sites	182635	1004	1
+Yahoo! and Partner Sites	182658	1054	0
+Yahoo! and Partner Sites	185069	22	0
+Yahoo! and Partner Sites	185147	663	1
+Yahoo! and Partner Sites	187433	2231	19
+Yahoo! and Partner Sites	187879	4951	8
+Yahoo! and Partner Sites	187977	4315	7
+Yahoo! and Partner Sites	189132	3391	17
+Yahoo! and Partner Sites	189291	4588	2
+Yahoo! and Partner Sites	190007	2930	8
+Yahoo! and Partner Sites	190890	3738	61
+Yahoo! and Partner Sites	190894	1361	0
+Yahoo! and Partner Sites	191197	1462	0
+Yahoo! and Partner Sites	191212	127	3
+Yahoo! and Partner Sites	191453	518	3
+Yahoo! and Partner Sites	193505	375	0
+Yahoo! and Partner Sites	193797	4284	15
+Yahoo! and Partner Sites	193918	15743	117
+Yahoo! and Partner Sites	194409	7305	387
+Yahoo! and Partner Sites	195162	405	0
+Yahoo! and Partner Sites	195337	2611	1
+Yahoo! and Partner Sites	196537	2790	5
+Yahoo! and Partner Sites	197308	750	1
+Zenovia Exchange	178718	128	0
+Zenovia Exchange	180636	9	0
+Zenovia Exchange	182060	9	0
+Zenovia Exchange	182635	3091	2
+Zenovia Exchange	182658	1183	0
+Zenovia Exchange	185069	11	0
+Zenovia Exchange	185147	1605	3
+Zenovia Exchange	189132	2027	8
+Zenovia Exchange	189291	2589	0
+Zenovia Exchange	190007	1882	6
+Zenovia Exchange	190890	968	13
+Zenovia Exchange	190894	416	0
+Zenovia Exchange	191197	379	0
+Zenovia Exchange	191212	1957	12
+Zenovia Exchange	191453	1327	7
+Zenovia Exchange	193505	1095	2
+Zenovia Exchange	193797	1597	7
+Zenovia Exchange	193918	2704	20
+Zenovia Exchange	194409	1456	58
+Zenovia Exchange	195162	381	0
+Zenovia Exchange	195337	1023	0
+Zenovia Exchange	196537	667	1
+Zenovia Exchange	197308	61	0

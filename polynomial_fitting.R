@@ -13,7 +13,7 @@ df$up <- df$conv_rate + z * sd
 
 df <- df[df$index<=30, ]
 plot(conv_rate ~ index, data=df, type='l', ylim=range(c(df$lb, df$up)),
-     col='blue', main='Conversion Rate')
+     col='blue', xlab="impression count", ylab="conversion rate")
 polygon(c(df$index, rev(df$index)),c(df$lb, rev(df$up)),
         col=alpha("grey30",0.3), border = NA)
 lines(lb ~ index, data=df, type='l', lty=2)
